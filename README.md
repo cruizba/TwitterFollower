@@ -1,2 +1,0 @@
-# TwitterFollower
-Follow people automatically
